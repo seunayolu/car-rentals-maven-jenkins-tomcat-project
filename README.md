@@ -1,4 +1,4 @@
-## CLASS PROJECT: MAVEN, TOMCAT, & JENKINS
+# CLASS PROJECT: MAVEN, TOMCAT, & JENKINS
 
 ### Instructions:
 
@@ -16,7 +16,10 @@
 
 6. After a Successful Build and Deploy to Dev Tomcat Server, then submit a pull request to merge code into Test and from Test to Prod.
 
+7. Every change you make follows that iterative process dev==>test==>prod
+
 #### Pull Request Image
+
 <img
   src="https://github.com/seunayolu/car-rentals-maven-jenkins-tomcat-project/blob/main/GitHub%20Pull%20Request.png"
   alt="Image"
@@ -34,3 +37,11 @@
 
 NB: When you check-in the code into your Dev branch, three of the modules are visible namely: Home, Fleet, and Offers. Edit the index.html
 to enable other modules, push the changes to Dev and Deploy to Tomcat using Jenkins.
+
+## Setup Tomcat, Maven Server, & Jenkins
+
+1. Setup Three Tomcat Server: Dev, Test, and Prod
+
+2. Setup your Maven Server and Connect it to Jenkins 
+
+3. Setup Your Jenkins Server to Build and Deploy artifact to Tomcat Server
