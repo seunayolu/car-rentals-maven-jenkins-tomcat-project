@@ -35,7 +35,7 @@
 5. About us
 6. Contact us
 
-NB: When you check-in the code into your Dev branch, three of the modules are visible namely: Home, Fleet, and Offers. Edit the index.html
+NB: When you clone/fork the Repository Dev branch, three of the modules are visible namely: Home, Fleet, and Offers. Edit the index.html
 to enable other modules, push the changes to Dev and Deploy to Tomcat using Jenkins.
 
 ## Setup Tomcat, Maven Server, & Jenkins
@@ -45,3 +45,8 @@ to enable other modules, push the changes to Dev and Deploy to Tomcat using Jenk
 2. Setup your Maven Server and Connect it to Jenkins 
 
 3. Setup Your Jenkins Server to Build and Deploy artifact to Tomcat Server
+
+
+
+
+
