@@ -18,7 +18,7 @@
 
 #### Pull Request Image
 
-![Image](src=GitHub Pull Request.png)
+![Image](https://github.com/seunayolu/car-rentals-maven-jenkins-tomcat-project/blob/main/GitHub%20Pull%20Request.png)
 
 ### Project Modules:
 
