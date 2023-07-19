@@ -49,6 +49,9 @@ to enable other modules, push the changes to Dev and Deploy to Tomcat using Jenk
 4. Instruction on how to setup tomcat & maven can be found here: https://github.com/seunayolu/maven-build-website
 
 
+GoodLuck!
+
+
 
 
 
