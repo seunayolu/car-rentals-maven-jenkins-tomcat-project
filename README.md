@@ -17,8 +17,11 @@
 6. After a Successful Build and Deploy to Dev Tomcat Server, then submit a pull request to merge code into Test and from Test to Prod.
 
 #### Pull Request Image
-
-![Image](https://github.com/seunayolu/car-rentals-maven-jenkins-tomcat-project/blob/main/GitHub%20Pull%20Request.png)
+<img
+  src="https://github.com/seunayolu/car-rentals-maven-jenkins-tomcat-project/blob/main/GitHub%20Pull%20Request.png"
+  alt="Image"
+  title="Pull Request"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ### Project Modules:
 
