@@ -18,7 +18,7 @@
 
 #### Pull Request Image
 
-![ARC](GitHub Pull Request.png)
+![Image](src=GitHub Pull Request.png)
 
 ### Project Modules:
 
