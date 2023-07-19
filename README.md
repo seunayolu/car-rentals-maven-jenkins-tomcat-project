@@ -21,7 +21,7 @@
   src="https://github.com/seunayolu/car-rentals-maven-jenkins-tomcat-project/blob/main/GitHub%20Pull%20Request.png"
   alt="Image"
   title="Pull Request"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 30px">
 
 ### Project Modules:
 
